@@ -6,8 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=Saileshthedon&icon=4&color=6)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimhb&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhb" /> </p> -->
 # 💫 About Me:
-🌱 I’m currently learning AWS,LINUX,HTML,CSS,JAVASCRIPT<br>📫 How to reach me vsailesh2002tsa@gmail.com<br>📄 Know about my experiences https://resume.io/r/z42WdYetn
-
+🌱 I’m currently learning AWS,LINUX,HTML,CSS,JAVASCRIPT<br>📫 How to reach me vsailesh2002tsa@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saileshv2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-sailesh-566524204/) 
